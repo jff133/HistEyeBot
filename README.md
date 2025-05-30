@@ -117,3 +117,13 @@ db.questions.insertMany([
 Отправьте команду /quiz, чтобы начать викторину.
 Отвечайте на вопросы, нажимая на кнопки с вариантами ответов.
 По завершении викторины бот покажет ваш результат.
+
+_Запуск и приветсвенное сообщение_
+![image](https://github.com/user-attachments/assets/cc94e234-98dd-49cd-812b-196ead6d1527)
+_В случае правильного ответа увеличение рейтинга игрока_
+![image](https://github.com/user-attachments/assets/3a13a175-a05e-42a3-966c-b57cc4ae85db)
+![image](https://github.com/user-attachments/assets/9f11ff37-e3c6-4d79-9928-68f42925fb9d)
+_В случае неправильного ответа показать правильный и не обновлять рейтинг_
+![image](https://github.com/user-attachments/assets/2190a720-5c28-49aa-8946-d7f75c775271)
+
+
